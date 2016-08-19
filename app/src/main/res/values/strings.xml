@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Widget</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="items">
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+        <item>Item4</item>
+        <item>Item5</item>
+    </array>
+</resources>

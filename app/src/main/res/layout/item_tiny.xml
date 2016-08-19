@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:ps="http://schemas.android.com/apk/res/android"
+    ps:layout_width="25dp"
+    ps:background="@drawable/bg"
+    ps:layout_height="20dp"
+    ps:gravity="center"
+    ps:text="tiny">
+
+
+
+</TextView>
