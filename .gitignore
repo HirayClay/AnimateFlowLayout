@@ -6,3 +6,11 @@
 .DS_Store
 /build
 /captures
+/app/src/main/java/com/example/cjj/widget/fragment/*
+/app/src/main/java/com/example/cjj/widget/widget/*
+/app/src/main/res/layout/fragment_test_status_bar.xml
+/app/src/main/res/layout/item_middle.xml
+/app/src/main/res/layout/item_normal.xml
+/app/src/main/res/layout/item_small.xml
+/app/src/main/res/layout/item_tiny.xml
+/app/src/main/res/layout/item_big.xml

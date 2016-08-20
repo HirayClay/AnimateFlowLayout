@@ -12,6 +12,7 @@ import com.example.cjj.widget.R;
 
 /**
  * Created by CJJ on 2016/8/18.
+ *
  */
 public class CAlertDialog extends DialogFragment {
 
